@@ -4,6 +4,7 @@ class Post
   def initialize
   end
 
-  def author=(author)
+  def author =(author)
+
   end
 end
