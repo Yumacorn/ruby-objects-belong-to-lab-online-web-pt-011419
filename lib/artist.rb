@@ -3,7 +3,7 @@ class Artist
 
   def initialize
   end
-  # 
+  #
   # def name
   #   @name
   # end
